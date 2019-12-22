@@ -1,6 +1,6 @@
 # README
 
-Projeto demo de Rails 6 com Webpack e Yarn rodando:
-- Bootstrap (bundle) para aproveitar a inicialiazão completa de utilitários JS do Bootstrap
+Rails 6 with Webpack and Yarn demo app with:
+- Bootstrap (bundle) to load the complete JS utilitaries from BS
 - Data Tables: https://datatables.net/
-- bootstrap-growl-ifightcrime: Pretty simple jQuery plugin that turns standard Bootstrap alerts into hovering 'Growl-like' notifications. (https://yarnpkg.com/en/package/bootstrap-growl-ifightcrime)
+- jQuery notifications from bootstrap-growl-ifightcrime: Pretty simple jQuery plugin that turns standard Bootstrap alerts into hovering 'Growl-like' notifications. (https://yarnpkg.com/en/package/bootstrap-growl-ifightcrime)
