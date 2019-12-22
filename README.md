@@ -1,25 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# demo_datables_notifications
+Projeto demo de Rails 6 com Webpack e Yarn rodando:
+- Bootstrap (bundle) para aproveitar a inicialiazão completa de utilitários JS do Bootstrap
+- Data Tables: https://datatables.net/
+- bootstrap-growl-ifightcrime: Pretty simple jQuery plugin that turns standard Bootstrap alerts into hovering 'Growl-like' notifications. (https://yarnpkg.com/en/package/bootstrap-growl-ifightcrime)
